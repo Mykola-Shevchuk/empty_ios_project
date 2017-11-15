@@ -1,0 +1,22 @@
+@import "fonts.css";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    font-family: 'Lato', serif;
+    width: 980px;
+    margin: 0 auto;
+}
+
+.text {
+    line-height: 1.5;
+}
+
+.image {
+    padding: 0 10px 10px 0;
+    float: left;
+}
+
